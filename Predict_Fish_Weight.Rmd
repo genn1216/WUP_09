@@ -147,3 +147,7 @@ The best two regressor model is also L3 and Width. The Adjusted R Squared is 0.8
 
 
 ## Final Summary Statements
+
+To find out the comparative data between Perch, Pike, and Roach, we used the leap program to find the best regressor models. Using leaps we can display all the appropriate data, such as Adjusted R Squared number to find out which model when compared to the variable Wight had an impact on the outcome. In this case we took note of the Adjusted R Squared number and the best two regressor models in each Fish species.
+
+
